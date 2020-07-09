@@ -5,17 +5,47 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-shifat-2b10a4172)
 
 
-<!--
-**jspw/jspw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things i know and have worked with :
 
-Here are some ideas to get you started:
+- #### Programming Languages :
 
-- 🔭 I’m currently working on Codeforces API
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - C
+  - Python 
+  - JAVA
+  - Javascript
+  - Dart
+  - PHP
+  - Shell scripting
+
+- #### Libraries and Frameworks :
+
+  - graphics.h
+  - SFML
+  - Libgdx
+  - JavaFX
+  - Java Swing
+  - jQuery
+  - ReactJS with Redux (incl Hooks)
+
+
+- #### Android Development :
+  - Dart
+  - Flutter
+
+
+- #### Web Development :
+  - HTML5
+  - CSS3
+  - Javascript
+  - Bootstrap
+  - Jquery
+  - PHP
+  - Mysql
+  - Posygresql
+  - React JS
+  
+  
+  - #### Others :
+  - Markdown
+  - AJAX
+  - MIPS 
