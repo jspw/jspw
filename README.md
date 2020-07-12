@@ -1,3 +1,7 @@
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=erlanlucio.visitor-badge">
+ <p/>
+
 ### Welcome to my profile :smiley:
 Hey :wave: I'm **Mehedi Hasan Shifat** studying B.Sc Engineering :mortar_board: in **Software Engineering** in **Shahjalal University of Science and Technology** in Sylhet :bangladesh:
 
