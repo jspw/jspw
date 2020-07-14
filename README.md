@@ -1,8 +1,10 @@
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=jspw.visitor-badge57">
+ <img align='center' src="http://img.shields.io/github/followers/jspw.svg?label=GitHub&style=social">
+
  <p/>
 
-### Welcome to my profile :smiley:
+### Welcome to my profile :smiley: 
 Hey :wave: I'm **Mehedi Hasan Shifat** studying B.Sc Engineering :mortar_board: in **Software Engineering** in **Shahjalal University of Science and Technology** in Sylhet :bangladesh:
 
 ## 🌟 Features 
@@ -28,4 +30,5 @@ Working on 💻
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:mhshifat757@gmail.com)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mhshifat757)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mehedi-hasan-shifat)
+
 
