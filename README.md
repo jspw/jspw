@@ -1,8 +1,13 @@
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=jspw.visitor-badge57">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jspw&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+ 
+ <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jspw&layout=compact">
 
  <p/>
+ 
+
+
+<br>
 
 ### Welcome to my profile :smiley: 
 Hey :wave: I'm **Mehedi Hasan Shifat** studying B.Sc Engineering :mortar_board: in **Software Engineering** in **Shahjalal University of Science and Technology** in Sylhet :bangladesh:
