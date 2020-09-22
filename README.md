@@ -1,9 +1,10 @@
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jspw&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
  
- <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jspw&layout=compact">
+ <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jspw&theme=highcontrast&hide_border=true&layout=compact">
 
  <p/>
+ 
  
 <a href="https://trackgit.com">
 <img src="https://sfy.cx/u/pkg" alt="trackgit-views" />
