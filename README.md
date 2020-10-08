@@ -14,13 +14,14 @@
 ### Welcome to my profile :smiley: 
 Hey :wave: I'm **Mehedi Hasan Shifat** studying B.Sc Engineering :mortar_board: in **Software Engineering** in **Shahjalal University of Science and Technology** in Sylhet :bangladesh:
 
+
 ## 🌟 Features 
 I'm a  :point_down:
 - :atom: Full Stack Web Developer (Django | React)
 - :iphone: Android Application Developer (Flutter)
 - 🌏 Open-Source Enthusiast
 - :computer: Linux Enthusiast (Dabian Based)
-- Machine Learning Enthusiast (Traditional ML Algorithms | Computer Vision )
+- 👾 Machine Learning Enthusiast (Traditional ML Algorithms | Computer Vision 👀 )
 
 
 ## 🏃🏽‍♂️ Currently
@@ -32,9 +33,19 @@ Working on 💻
 
 - 📝 Web Application with ReactJs <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-- Artificial Intelligence and Traditional Machine Learning Algorithms
+- 🤖  Artificial Intelligence and Traditional Machine Learning Algorithms
 
-### [Check My CV](https://drive.google.com/file/d/1I9lM-oZ2gGPW2OxbU0kr3koeCzS9O-o-/view?usp=sharing)
+## 🤝 Available For : 
+
+- 🖥️ Full stack web development in Django & ReactJs  
+- 📱 Android Application Development in Flutter & Dart 
+- 👽 Machine Learning Research | Paper 
+- 🤞 Startup Ideas | Project
+- ⌨️ Freelancing Projects 
+
+<p align='center'>
+ <a href = "https://drive.google.com/file/d/1I9lM-oZ2gGPW2OxbU0kr3koeCzS9O-o-/view?usp=sharing" > 🧠 Here is my Resume </a> 
+<p/>
 
 ### Contact And Social
 **Feel free to knock me**  
