@@ -34,6 +34,8 @@ Working on 💻
 
 - Artificial Intelligence and Traditional Machine Learning Algorithms
 
+### [Check My CV](https://drive.google.com/file/d/1I9lM-oZ2gGPW2OxbU0kr3koeCzS9O-o-/view?usp=sharing)
+
 ### Contact And Social
 **Feel free to knock me**  
 - <a href="https://dev.to/mhshifat"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="5hfT's DEV Profile" height="30" width="30"></a>
