@@ -4,7 +4,6 @@
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jspw">
 <!-- <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jspw&hide_border=true&layout=compact"> -->
 <p/>
-<br>
 
 This is **Mehedi Hasan Shifat** currently studying **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh:.
 
@@ -14,7 +13,9 @@ I'm also a Full Stack Web (Django,React) and Android (Flutter) Application Devel
  <a href = "https://drive.google.com/file/d/1I9lM-oZ2gGPW2OxbU0kr3koeCzS9O-o-/view?usp=sharing" > 🧠 Here is my Resume </a> 
 <p/>
 
-## Learning
+<hr>
+
+### Currently Learning 
 
 - 📱 Flutter <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
@@ -24,7 +25,7 @@ I'm also a Full Stack Web (Django,React) and Android (Flutter) Application Devel
 - 🤖 Traditional Machine Learning Algorithms
 
 
-### Contact With ME
+### Contact With Me
 
 <p align='center'>
  <a href = "mailto:mhshifat757@gmail.com" > <img src="https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social" > </a> 
