@@ -30,7 +30,7 @@ I'm also a Full Stack Web (Django,React) and Android (Flutter) Application Devel
 <p align='center'>
  <a href = "mailto:mhshifat757@gmail.com" > <img src="https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social" > </a> 
  <a href = "https://twitter.com/mhshifat757" > <img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" > </a> 
- <a href = "https://www.linkedin.com/in/mehedi-hasan-shifat" > <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" > </a> 
+ <a href = "https://www.linkedin.com/in/mhshifat" > <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" > </a> 
  <a href = "https://www.facebook.com/rio57mh" > <img src="https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook-outlook&style=social" > </a> 
  <a href = "https://www.quora.com/profile/Mehedi-Hasan-Shifat" > <img src="https://img.shields.io/badge/--quora?label=Quora&logo=quora-outlook&style=social" >  </a> 
 <a href="https://dev.to/mhshifat"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="5hfT's DEV Profile" height="20" width="30"></a>
