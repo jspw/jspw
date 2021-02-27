@@ -15,6 +15,21 @@ I'm also a Full Stack Web (Django,React) and Android (Flutter) Application Devel
 
 <hr>
 
+### Familiar With 
+
+- Dart,Shell,Javascript,Java,Python,C++,C
+- Nodejs
+- Markdown,CSS3,HTML5
+- Flutter,Express,Django,React,JavaSwift,Bootstrap,JQuery
+- MongoDB,PostgreSql,SqlLite,MySql
+- git
+
+
+### Proficient In :
+
+- Python,Js,Dart,C
+- React, Express, Flutter
+
 ### Currently Learning 
 
 - 📱 Flutter <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
