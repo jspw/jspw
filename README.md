@@ -12,7 +12,7 @@ This is **Mehedi Hasan Shifat** currently studying **Software Engineering** in *
 Like to learn, write code, fix bugs.
 
 <p align='center'>
- <a href = "https://drive.google.com/file/d/1I9lM-oZ2gGPW2OxbU0kr3koeCzS9O-o-/view?usp=sharing" > 🧠 Here is my Resume </a> 
+ <a href = "http://dev-shifat.me/shifat.com" > To Know More </a> 
 <p/>
 
 <hr>
