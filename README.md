@@ -54,3 +54,7 @@ Like to learn, write code, fix bugs.
 <a href="https://dev.to/mhshifat"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="5hfT's DEV Profile" height="20" width="30"></a>
 <p/>
 
+<p align='center' >
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@jspw/0c994ff4-d25e-4d63-9966-8ba96411b8da.png" /></a>
+</p<
+
