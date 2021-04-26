@@ -55,6 +55,6 @@ Like to learn, write code, fix bugs.
 <p/>
 
 <p align='center' >
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@jspw/0c994ff4-d25e-4d63-9966-8ba96411b8da.png" /></a>
-</p<
+<img src="https://wakatime.com/share/@jspw/0c994ff4-d25e-4d63-9966-8ba96411b8da.png" />
+</p>
 
