@@ -1,46 +1,44 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jspw)
-### Welcome to my profile 
+# Welcome to my profile 
+
+## About ME
+
+Hi, I am **Mehedi Hasan Shifat** currently studying (4th yr,1st sem) **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh: I'm a passionate tech enthusiast. I have been learning tech stuffs for 3 years, love to write code, solving problems and learn new technologies.I'm a web developer as well as android application developer.I also try to contribute in open source projects. I have interest in building system applications or tools more. Recently, i have got **Foobar Coding Challenge invitation from Google**.(March,2021) ->  <a href = "http://dev-shifat.me/shifat.com" >know more about me (portfolio) </a> 
+
 
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jspw">
 <!-- <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jspw&hide_border=true&layout=compact"> -->
 <p/>
 
-## About ME
+ ## Proficient In :
 
-This is **Mehedi Hasan Shifat** currently studying **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh:
+- <b><i>Languages :</i></b> Dart, C,Javascript, Python
+- <b><i>Frameworks/Libraries :</i></b> Flutter, React, Redux, Express, 
+ 
 
-Like to learn, write code, fix bugs.
+## Also Familiar | Worked With 
 
-<p align='center'>
- <a href = "http://dev-shifat.me/shifat.com" > To Know More </a> 
-<p/>
-
-<hr>
-
-## Familiar With 
-
-- Dart,Shell,Javascript,Java,Python,C++,C
-- Markdown,CSS3,HTML5
+- <b><i>Languages :</i></b> Dart,Shell,Javascript,Java,Python,C++,C
+- <b><i>Markup & Design :</i></b> Markdown,CSS3,HTML5
+- <b><i>Frameworks/Libraries :</i></b> Django,Java Swing,Bootstrap,MaterialUI,JQuery,SFML(c++),graphics.h(c),LibGDX(java)
+- <b><i>Database :</i></b> MongoDB,PostgreSql,SqlLite,MySql
+- <b><i>Version Controll System :</i></b> git
+- <b><i>Operating System :</i></b> Windows,Linux (Ubuntu,Debian,Kali Linux,Manjaro,i3,PopOS)
 - Nodejs
-- Flutter,Express,Django,React,JavaSwift,Bootstrap,JQuery
-- MongoDB,PostgreSql,SqlLite,MySql
-- git
+- Traditional Machine Learning Algorithms (Regression,Decision Tree,Random Forest,SVR,KNN)
 
 
-## Proficient In :
 
-- Python,Js,Dart,C
-- React, Express, Flutter
+## Currently Learning | Working With
 
-## Currently Learning 
+- 📱 Flutter | Dart <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code> 
+- Clean Code
+- Architectrue Pattern (MVC,MVVC,Bloc Pattern)
+<!-- - 📝 Node(Express) & React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-- 📱 Flutter <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
-
-- 📝 Node(Express) & React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-- 🤖 Traditional Machine Learning Algorithms
+- 🤖 Traditional Machine Learning Algorithms -->
 
 
 ## Contact With Me
