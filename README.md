@@ -8,6 +8,9 @@
 Hi, I am **Mehedi Hasan Shifat** currently studying (4th yr,1st sem) **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh: I'm a passionate tech enthusiast. I have been learning tech stuffs for 3 years, love to write code, solving problems and learn new technologies.I'm a web developer as well as android application developer.I also try to contribute in open source projects. I have interest in building system applications or tools more. Recently, i have got **Foobar Coding Challenge invitation from Google**.(March,2021) 
 <a href = "http://dev-shifat.me/shifat.com" >know more about me (portfolio) </a> 
 
+## Wokrs At
+Currently I'm an **Intern Software Engineer** at [Dynamic Solution Innovators](http://dsinnovators.com/) as a part of my 4th year 1st semester.
+
 
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jspw">
@@ -42,6 +45,13 @@ Hi, I am **Mehedi Hasan Shifat** currently studying (4th yr,1st sem) **Software 
 
 - 🤖 Traditional Machine Learning Algorithms -->
 
+
+## Interests
+
+- Design Pattern
+- System Design & Architecture (micro services)
+- Machine Learning
+- Blogging
 
 ## Contact With Me
 
