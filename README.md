@@ -8,27 +8,28 @@
 
 ## About ME
 
-Hi, I am **Mehedi Hasan Shifat** currently studying (4th yr,1st sem) **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh: I'm a passionate tech enthusiast. I have been learning tech stuffs for 3 years, love to write code, solving problems and learn new technologies.I'm a web developer as well as android application developer.I also try to contribute in open source projects. I have interest in building system applications or tools more. Recently, i have got **Foobar Coding Challenge invitation from Google**.(March,2021) 
-<a href = "https://jspw.github.io/shifat.com/" >know more about me (portfolio) </a> 
+Hi, I am **Mehedi Hasan Shifat** currently studying (4th yr,1st sem) **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh: I'm a passionate tech enthusiast. I have been learning tech stuffs from 2018, love to write code, solving problems and learn new technologies.I'm a web developer as well as android application developer.I also try to contribute in open source projects. I have interest in building system applications or tools more. Recently, i have got **Foobar Coding Challenge invitation from Google**(March,2021).
+<a href = "https://jspw.github.io/cv" >Here is my CV</a> 
 
 
 ## Works At
-Currently I'm an **Intern Software Engineer** at [Dynamic Solution Innovators](http://dsinnovators.com/) as a part of my 4th year 1st semester internship.
+
+Currently I'm an **Software Engineer Intern** at [Dynamic Solution Innovators](http://dsinnovators.com/). I am going through some javascript and react session. Learning core and deep concept of javascript,React,hooks,redux, clean code and architecture of frontend applications.
 
 
  ## Proficient In :
 
-- <b><i>Languages :</i></b> Dart, C,Javascript, Python
-- <b><i>Frameworks/Libraries :</i></b> Flutter, React, Redux, Express, 
+- <b><i>Languages :</i></b> Javascript,C,Python,Java
+- <b><i>Frameworks/Libraries :</i></b> ReactJs,Flutter,Express
  
 
 ## Also Familiar | Worked With 
 
-- <b><i>Languages :</i></b> C++, Java, bash, php
-- <b><i>Markup & Design :</i></b> Markdown,CSS3,HTML5
+- <b><i>Languages :</i></b> C++, bash shell scripting, php
+- <b><i>Markup & Design :</i></b> Tailwindcss, Markdown,CSS3,HTML5,Figma
 - <b><i>Frameworks/Libraries :</i></b> Django,Java Swing,Bootstrap,MaterialUI,JQuery,SFML(c++),graphics.h(c),LibGDX(java)
 - <b><i>Database :</i></b> MongoDB,PostgreSql,SqlLite,MySql
-- <b><i>Version Controll System :</i></b> git
+- <b><i>Version Controll System :</i></b> git (Github)
 - <b><i>Operating System :</i></b> Windows,Linux (Ubuntu,Debian,Kali Linux,Manjaro,i3,PopOS)
 - Nodejs
 - Traditional Machine Learning Algorithms (Regression,Decision Tree,Random Forest,SVR,KNN)
@@ -38,11 +39,10 @@ Currently I'm an **Intern Software Engineer** at [Dynamic Solution Innovators](h
 ## Currently Learning | Working With
 
 - 📱 Dart <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> | Flutter <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code> 
+<!-- - 📝 React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 - Clean Code
 - Architectrue Pattern (MVC,MVVC,Bloc Pattern)
-<!-- - 📝 Node(Express) & React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-- 🤖 Traditional Machine Learning Algorithms -->
 
 
 ## Interests
