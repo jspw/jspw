@@ -17,7 +17,7 @@ Hi, I am **Mehedi Hasan Shifat** currently studying (4th yr,1st sem) **Software 
 Currently I'm an **Software Engineer Intern** at [Dynamic Solution Innovators](http://dsinnovators.com/). I am going through some javascript and react session. Learning core and deep concept of javascript,React,hooks,redux, clean code and architecture of frontend applications.
 
 
- ## Proficient In :
+## Proficient In :
 
 - <b><i>Languages :</i></b> Javascript,C,Python,Java
 - <b><i>Frameworks/Libraries :</i></b> ReactJs,Flutter,Express
@@ -38,12 +38,7 @@ Currently I'm an **Software Engineer Intern** at [Dynamic Solution Innovators](h
 
 ## Currently Learning | Working With
 
-- 📱 Dart <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> | Flutter <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code> 
-<!-- - 📝 React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-- Clean Code
-- Architectrue Pattern (MVC,MVVC,Bloc Pattern)
-
+- ReactJs
 
 ## Interests
 
