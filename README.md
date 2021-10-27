@@ -14,7 +14,7 @@ Hi, I am **Mehedi Hasan Shifat** currently studying (4th yr,1st sem) **Software 
 
 ## Works At
 
-Currently I'm an **Software Engineer Intern** at [Dynamic Solution Innovators](http://dsinnovators.com/). I am going through some javascript and react session. Learning core and deep concept of javascript,React,hooks,redux, clean code and architecture of frontend applications.
+Currently I'm a **Software Engineer Intern** at [Dynamic Solution Innovators](http://dsinnovators.com/).
 
 
 ## Proficient In :
@@ -27,7 +27,7 @@ Currently I'm an **Software Engineer Intern** at [Dynamic Solution Innovators](h
 
 - <b><i>Languages :</i></b> C++, bash shell scripting, php
 - <b><i>Markup & Design :</i></b> Tailwindcss, Markdown,CSS3,HTML5,Figma
-- <b><i>Frameworks/Libraries :</i></b> Django,Java Swing,Bootstrap,MaterialUI,JQuery,SFML(c++),graphics.h(c),LibGDX(java)
+- <b><i>Frameworks/Libraries :</i></b> Spring boot, Next, Django,Java Swing,Bootstrap,MaterialUI,JQuery,SFML(c++),graphics.h(c),LibGDX(java)
 - <b><i>Database :</i></b> MongoDB,PostgreSql,SqlLite,MySql
 - <b><i>Version Controll System :</i></b> git (Github)
 - <b><i>Operating System :</i></b> Windows,Linux (Ubuntu,Debian,Kali Linux,Manjaro,i3,PopOS)
@@ -38,12 +38,12 @@ Currently I'm an **Software Engineer Intern** at [Dynamic Solution Innovators](h
 
 ## Currently Learning | Working With
 
-- ReactJs
+- Spring framework, spring boot, thymeleaf, jpa
 
 ## Interests
 
 - Design Pattern
-- System Design & Architecture (micro services)
+- System Design & Architecture
 - Machine Learning
 - Blogging
 
