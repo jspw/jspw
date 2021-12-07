@@ -38,7 +38,7 @@ Currently I'm a **Software Engineer Intern** at [Dynamic Solution Innovators](ht
 
 ## Currently Learning | Working With
 
-- Spring framework, spring boot, thymeleaf, jpa
+- Spring framework, spring boot,Jax-rs, Jersey, thymeleaf, jpa, Hybernate
 
 ## Interests
 
@@ -59,6 +59,8 @@ Currently I'm a **Software Engineer Intern** at [Dynamic Solution Innovators](ht
 <p/>
 
 ## Coding Activity (VS Code Only)
+
+[![wakatime](https://wakatime.com/badge/user/e668900a-cce8-4ff3-95a3-8fd084d7a12f.svg)](https://wakatime.com/@e668900a-cce8-4ff3-95a3-8fd084d7a12f)
 
 <p align='center' >
 <img src="https://wakatime.com/share/@jspw/0c994ff4-d25e-4d63-9966-8ba96411b8da.png" />
