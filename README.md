@@ -8,44 +8,51 @@
 
 ## About ME
 
-Hi, I am **Mehedi Hasan Shifat** currently studying (4th yr,1st sem) **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh: I'm a passionate tech enthusiast. I have been learning tech stuffs from 2018, love to write code, solving problems and learn new technologies.I'm a web developer as well as android application developer.I also try to contribute in open source projects. I have interest in building system applications or tools more. Recently, i have got **Foobar Coding Challenge invitation from Google**(March,2021).
+Hi, I am **Mehedi Hasan Shifat** currently studying (final year) **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh: I'm a passionate tech enthusiast. I have been learning tech stuffs from 2018, love to write code, solving problems and learn new technologies.I'm a web developer as well as android application developer.I also try to contribute in open source projects. I have interest in building large scale systems. Recently, i have got **Foobar Coding Challenge invitation from Google**(March,2021).
+
 <a href = "https://jspw.github.io/cv" >Here is my CV</a> 
 
 
 ## Works At
 
-Currently I'm a **Software Engineer Intern** at [Dynamic Solution Innovators](http://dsinnovators.com/).
+Currently, I'm working as a fulltime **Junior Software Engineer** at [Dynamic Solution Innovators Ltd.](http://dsinnovators.com/)
 
 
 ## Proficient In :
 
-- <b><i>Languages :</i></b> Javascript,C,Python,Java
-- <b><i>Frameworks/Libraries :</i></b> ReactJs,Flutter,Express
+- <b><i>Languages :</i></b> Javascript,Java
+- <b><i>Frameworks/Libraries :</i></b> Web backend (ExpressJs | Springboot), Web Frontend (ReactJs | NextJs), Mobile application (Flutter)
+- <b><i>Version Controll System :</i></b> git (Github)
  
 
 ## Also Familiar | Worked With 
 
-- <b><i>Languages :</i></b> C++, bash shell scripting, php
+- <b><i>Languages :</i></b> dart, python, c
 - <b><i>Markup & Design :</i></b> Tailwindcss, Markdown,CSS3,HTML5,Figma
-- <b><i>Frameworks/Libraries :</i></b> Spring boot, Next, Django,Java Swing,Bootstrap,MaterialUI,JQuery,SFML(c++),graphics.h(c),LibGDX(java)
-- <b><i>Database :</i></b> MongoDB,PostgreSql,SqlLite,MySql
-- <b><i>Version Controll System :</i></b> git (Github)
+- <b><i>Frameworks/Libraries :</i></b> Spring MVC, Jersey (JAX-RS), JSP, Thymeleaf, JPA, Hybernate, JDBC, Django, MaterialUI,JQuery,SFML(c++),graphics.h(c),LibGDX(java), Java Swing and FX
+- <b><i>Database :</i></b> MySql, MongoDB, PostgreSql, SqlLite
 - <b><i>Operating System :</i></b> Windows,Linux (Ubuntu,Debian,Kali Linux,Manjaro,i3,PopOS)
-- Nodejs
 - Traditional Machine Learning Algorithms (Regression,Decision Tree,Random Forest,SVR,KNN)
+- Blockchain
 
 
 
 ## Currently Learning | Working With
 
-- Spring framework, spring boot,Jax-rs, Jersey, thymeleaf, jpa, Hybernate
+- Spring MVC, Springboot, JPA, JDBC
 
 ## Interests
 
-- Design Pattern
-- System Design & Architecture
+- Large Scale System Design & Architecture (Specially Microservice)
 - Machine Learning
-- Blogging
+- Blockchain
+
+## Others
+
+- love to write blog/ articles on tech stuffs
+- listening music
+- watching movies and series (Crime | Thriller | Mystery)
+- study on random topics like human psychology, life philosophy, religion
 
 ## Contact With Me
 
