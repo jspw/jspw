@@ -10,7 +10,7 @@
 
 Hi, I am **Mehedi Hasan Shifat** currently studying (final year) **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh: I'm a passionate tech enthusiast. I have been learning tech stuffs from 2018, love to write code, solving problems and learn new technologies.I'm a web developer as well as android application developer.I also try to contribute in open source projects. I have interest in building large scale systems. Recently, i have got **Foobar Coding Challenge invitation from Google**(March,2021).
 
-<a href = "https://jspw.github.io/cv" >Here is my CV</a> 
+<a href = "https://drive.google.com/file/d/1BhGgVcDOirb6A3rC3Hr-Gz-9C0ypM3z8" >Here is my CV</a> 
 
 
 ## Works At
