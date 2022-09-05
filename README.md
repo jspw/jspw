@@ -39,7 +39,7 @@ Hi, I am **Mehedi Hasan Shifat** currently studying (final year) **Software Engi
 - **Databases** : Postgresql, MongoDB
 - **Version Control System :** git (Github)
 
-## Also Familiar | Worked With
+## Familiar | Worked With
 
 - **Languages :** dart, python, c
 - **Markup & Design :** TailwindCSS, Markdown,CSS3,HTML5,Figma
@@ -51,21 +51,23 @@ Hi, I am **Mehedi Hasan Shifat** currently studying (final year) **Software Engi
 
 ## Currently Learning | Working With
 
-- Spring MVC, Spring Boot, JPA, JDBC
-- Blockchain
+- Spring Framework, Spring Boot, JPA, JDBC, JPA, MongoTemplate
+- ReactJS
+- MongoDB, Postgresql
+- Web3, Blockchain, Smart Contract, DAO
 
 ## Interests
 
 - Large Scale System Design & Architecture (Specially Microservice)
 - Machine Learning
-- Blockchain
+- Web3, Blockchain
 
 ## Others
 
-- love to write blog/ articles on tech stuffs
-- listening music
-- watching movies and series (Crime | Thriller | Mystery)
-- study on random topics like human psychology, life philosophy, religion
+- Love to write blog/ articles on tech stuffs [FIND ME](https://dev.to/mh_shifat)
+- Listening music
+- Watching movies and series (Crime | Thriller | Mystery)
+- Study on random topics like human psychology, life philosophy, religion
 
 ## Contact With Me
 
