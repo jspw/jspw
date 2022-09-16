@@ -1,21 +1,14 @@
+![visitors count](https://visitor-badge.glitch.me/badge?page_id=jspw)
+
 # Welcome To My Profile
 
-![visitors count](https://visitor-badge.glitch.me/badge?page_id=jspw)
+<p align='center'>
+<a href="https://stackexchange.com/users/13399899"><img src="https://stackexchange.com/users/flair/13399899.png" width="208" height="58" alt="profile for ShifaT on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ShifaT on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</p>
 
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jspw">
 <p/>
-
-## Contribution Stack
-
-<p align='center'>
-<a href="https://stackexchange.com/users/13399899"><img src="https://stackexchange.com/users/flair/13399899.png" width="208" height="58" alt="profile for ShifaT on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ShifaT on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></p>
-
-<p align='center'>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jspw&theme=react&count_private=true" >
-<p/>
-
-![Graph](https://activity-graph.herokuapp.com/graph?username=jspw&theme=react-dark)
 
 ## Coding Activity (VS Code Only)
 
@@ -24,6 +17,12 @@
 <p align='center' >
 <img src="https://wakatime.com/share/@jspw/0c994ff4-d25e-4d63-9966-8ba96411b8da.png" />
 </p>
+
+## Contribution Stack
+
+<p align='center'>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jspw&theme=react&count_private=true" >
+<p/>
 
 ## Contact With Me
 
