@@ -10,6 +10,30 @@
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jspw">
 <p/>
 
+
+## About Me
+
+I have been involved in learning and creating tech stuff from the very first year (2018) of my [university](https://www.sust.edu/) life. During student life I was involved in solving competitive problems and have solved about 1000+ problems in different online judges including [Codeforces](http://www.codeforces.com/profile/shifat57), [CodeChef](https://www.codechef.com/users/shifat_57), [Hackerrank](https://www.hackerrank.com/vampire_5?hr_r=1), [UVA](https://uhunt.onlinejudge.org/id/945442), lightOj etc.
+
+I love to build system tools or applications. I have also contributed in open source projects. I have a open source android launcher called ["Ubuntu Launcher"](https://github.com/jspw/Ubuntu-Launcher) in github which have 6.1k total downloads, about 3k current version downloads and 250 stars in github.
+
+I have worked on web applications as well as mobile applications. I believe my core expertise is in backend development. I mainly work with NodeJs (ExpressJs) and Spring framework (SpringBoot, JPA, Hybernate) in backend, React on frontend and Flutter for cross platform applications.
+
+Till now (2022), I have finished 5 client based projects. I have two mobile (android) applications in playstore and two web applications in production.
+
+Interested Fields :
+
+- Large Scale System Design & Software Architecture
+- Open Source contribution
+- Blockchain
+- Machine Learning
+
+Others :
+
+- Love to write blogs about technology
+- Research and study on human behavior and random controversial topics
+- Listen music, watch movies & series (crime | mystery | thriller | si-fi)
+
 ## Coding Activity (VS Code Only)
 
 [![wakatime](https://wakatime.com/badge/user/e668900a-cce8-4ff3-95a3-8fd084d7a12f.svg)](https://wakatime.com/@e668900a-cce8-4ff3-95a3-8fd084d7a12f)
