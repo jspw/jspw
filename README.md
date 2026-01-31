@@ -1,38 +1,26 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=jspw)
-
 # 👋 Welcome to My GitHub Profile
-
-<p align="center">
-  <a href="https://stackexchange.com/users/13399899">
-    <img src="https://stackexchange.com/users/flair/13399899.png" width="208" height="58" alt="Profile for ShifaT on Stack Exchange" title="Profile for ShifaT on Stack Exchange">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jspw&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
 
 ## 👨‍💻 About Me
 
-I’m **Mehedi Hasan Shifat**, a Software Engineer from **Dhaka, Bangladesh**, with a passion for designing scalable systems and building impactful software. My journey in tech began in **2018** during my undergraduate studies at [SUST](https://www.sust.edu/), and I’ve been exploring the vast field of software development ever since.
+I’m **Mehedi Hasan Shifat**, a Software Engineer from **Dhaka, Bangladesh**, with a passion for designing scalable systems and building impactful softwares. My journey in tech began in **2018** during my undergraduate studies at [SUST](https://www.sust.edu/), and I’ve been exploring the vast field of software development ever since.
 
 ### 👨‍🏫 Key Highlights
 
-- Proficient in full-stack web development with **Spring Boot**, **NestJS**, **Express**, **React.js**, and **Next.js**.
-- Solid understanding of databases including **PostgreSQL**, **MySQL**, **MongoDB** and **Firebase**.
+- Proficient in full-stack web development with **Spring Boot**, **NestJS**, **Express**, **React.js** and **Next.js**.
+- Solid understanding of databases including **PostgreSQL** & **MongoDB**
 - Experience in mobile development using **Flutter** and **Dart**.
-- Recent leadership of a **5-member team** that delivered a **Sales & Marketing platform** for **US-based banks and credit unions** involving **10+ microservices**, built with technologies like Spring Boot, JSP, React, Hapi, and Docker.
-- Experience working with clients from **Bangladesh, UK, Japan, and the USA** on CRM, CMS, and e-commerce projects.
+- Recent leadership of a **5-member team** that delivered a **Sales & Marketing platform** for **US-based banks and credit unions** involving **10+ microservices**, built with technologies like Spring Boot, JSP, React, Hapi, Express.js.
+- Experience working with clients from **USA, UK, Japan and Bangladesh** on CRM, CMS, and e-commerce projects.
 
 ### 🔧 Technical Skills
 
 - **Backend**: Spring Boot, NestJS, Express.js, Node.js, Hapi
-- **Frontend**: React.js, Next.js, HTML, CSS, JavaScript, jQuery
+- **Frontend**: React.js, Next.js, HTML, CSS, JavaScript, jQuery, JSP
 - **Databases**: PostgreSQL, MySQL, MongoDB, Firebase
-- **DevOps**: Docker, GitLab CI/CD, DigitalOcean, AWS, Vercel, Hostinger
+- **DevOps**: Docker, Github & GitLab CI/CD, Ansible, Jenkins, DataDog
+- **Cloud**: DigitalOcean, AWS, Vercel, Hostinger
 - **Mobile**: Flutter & Dart
+- **AI**: Python, Langchain, LangGraph, SpringAI, n8n, RAG, Local LLMs, VectorDB
 
 ---
 
@@ -47,9 +35,10 @@ I’m **Mehedi Hasan Shifat**, a Software Engineer from **Dhaka, Bangladesh**, w
 ## 🔭 Interests
 
 - Software Architecture & Large-scale System Design
+- AI Powered Solutions
 - Product Ownership & Team Leadership
 - Open Source Contributions
-- Mentoring junior developers
+- Mentoring junior/mid developers
 - Writing technical blogs
 
 ---
@@ -59,6 +48,7 @@ I’m **Mehedi Hasan Shifat**, a Software Engineer from **Dhaka, Bangladesh**, w
 - 🤖 Exploring **AI trends**, especially diving deep into **RAG (Retrieval-Augmented Generation)** systems
 - 🛠️ Working on **personal MVP SaaS product** to solve real-world problems
 - ⚙️ Learning **Golang** for building fast, efficient, and cloud-ready backend tools
+- 🔭 Exploring **Rust** for System Level tooling
 
 ---
 
@@ -67,7 +57,7 @@ I’m **Mehedi Hasan Shifat**, a Software Engineer from **Dhaka, Bangladesh**, w
 - ✍️ Enjoy writing tech blogs
 - 📚 Recently started reading **Bengali books**, especially in **thriller**, **historical sci-fi**, **crime**, **psychological horror**, and **religious-psychological** genres
 - 🧠 Often dive into **controversial religious topics**, **human behavior**, **thought-provoking philosophy** and **life related philosophies**
-- 🎬/🎧 Enjoy watching **mystery, thriller, and sci-fi** series/movies and listening musics
+- 🎬/🎧 Enjoy watching **mystery, thriller, and sci-fi** series/movies and listening **musics**
 
 ---
 
@@ -79,11 +69,6 @@ I’m **Mehedi Hasan Shifat**, a Software Engineer from **Dhaka, Bangladesh**, w
   <img src="https://wakatime.com/share/@jspw/0c994ff4-d25e-4d63-9966-8ba96411b8da.png" alt="WakaTime Stats">
 </p>
 
-## 🔥 Contribution Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jspw&theme=radical&count_private=true" alt="Contribution Streak">
-</p>
 
 ## 📬 Connect With Me
 
@@ -99,9 +84,6 @@ I’m **Mehedi Hasan Shifat**, a Software Engineer from **Dhaka, Bangladesh**, w
   </a>
   <a href="https://www.facebook.com/rio57mh">
     <img src="https://img.shields.io/badge/Facebook-rio57mh-blue?logo=facebook&style=flat-square" alt="Facebook">
-  </a>
-  <a href="https://www.quora.com/profile/Mehedi-Hasan-Shifat">
-    <img src="https://img.shields.io/badge/Quora-Mehedi_Hasan_Shifat-red?logo=quora&style=flat-square" alt="Quora">
   </a>
   <a href="https://dev.to/mhshifat">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="30" width="30">
